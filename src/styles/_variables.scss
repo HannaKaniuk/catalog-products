@@ -1,0 +1,122 @@
+// ============================================
+// Colors
+// ============================================
+$color-primary: #182a42;
+$color-primary-light: #8090a4;
+$color-primary-dark: #111827;
+
+$color-accent: #43a0fd;
+$color-accent-hover: #82b9ed;
+$color-accent-bg: #e8f4ff;
+$color-accent-focus: #3b82f6;
+
+$color-text-primary: #182a42;
+$color-text-secondary: #4b5563;
+$color-text-muted: #6b7280;
+$color-text-light: #8090a4;
+$color-text-muted-alt: #9ca3af;
+$color-text-placeholder: #9a9fb3;
+
+$color-bg: #ffffff;
+$color-bg-input: #f6f7f9;
+$color-bg-neutral: #f3f4f6;
+$color-bg-info: #eff6ff;
+$color-bg-error: #fef2f2;
+$color-bg-empty: #f3f4f6;
+
+$color-border: #ebebeb;
+$color-border-hover: #cfd8dc;
+
+$color-error-pill: #ef4444;
+$color-error-bg: rgba(220, 38, 38, 0.08);
+$color-rating: #43A0FD;
+
+$color-white: #ffffff;
+
+// ============================================
+// Typography
+// ============================================
+$font-size-xs: 11px;
+$font-size-sm: 12px;
+$font-size-13: 13px;
+$font-size-base: 14px;
+$font-size-md: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 22px;
+
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+$line-height-tight: 100%;
+$line-height-base: 140%;
+$line-height-normal: normal;
+
+$letter-spacing-tight: -0.36px;
+$letter-spacing-sm: -0.32px;
+$letter-spacing-xs: -0.28px;
+$letter-spacing-wide: 0.08em;
+
+// ============================================
+// Spacing & Layout
+// ============================================
+$spacing-xs: 4px;
+$spacing-sm: 6px;
+$spacing-md: 8px;
+$spacing-base: 10px;
+$spacing-lg: 12px;
+$spacing-xl: 14px;
+$spacing-2xl: 16px;
+$spacing-3xl: 18px;
+$spacing-4xl: 20px;
+$spacing-5xl: 22px;
+$spacing-6xl: 30px;
+$spacing-7xl: 32px;
+$spacing-8xl: 40px;
+$spacing-gap: 60px;
+$spacing-gap-sm: 20px;
+
+$layout-margin: 100px;
+$layout-margin-lg: 254px;
+$layout-gap: 22px;
+$layout-page-gap: 20px;
+$search-width: 454px;
+$topbar-height: 112px;
+$logo-height: 32px;
+$dropdown-min-width: 180px;
+
+// ============================================
+// Border Radius
+// ============================================
+$radius-sm: 12px;
+$radius-md: 15px;
+$radius-lg: 16px;
+$radius-pill: 999px;
+$radius-badge: 100px;
+
+// ============================================
+// Transitions
+// ============================================
+$transition-fast: 0.1s ease;
+$transition-base: 0.15s ease;
+
+// ============================================
+// Breakpoints
+// ============================================
+$breakpoint-xl: 1920px;
+$breakpoint-lg: 1620px;
+$breakpoint-md: 1360px;
+$breakpoint-sm: 1024px;
+$breakpoint-xs: 900px;
+
+// ============================================
+// Shadows
+// ============================================
+$shadow-dropdown: 0 12px 30px rgba(15, 23, 42, 0.12);
+$shadow-focus: 0 0 0 1px rgba(59, 130, 246, 0.2);
+
+// ============================================
+// Gradient
+// ============================================
+$gradient-price: linear-gradient(90deg, #003181 0%, #2288ed 100%);

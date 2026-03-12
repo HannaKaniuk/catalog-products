@@ -1,0 +1,17 @@
+export const ICONS = {
+  basket: '/icons/basket.svg',
+  back: '/icons/back.svg',
+  next: '/icons/next.svg',
+  caret: '/icons/caret.svg',
+  category: '/icons/category.svg',
+  logo: '/icons/logo.svg',
+  search: '/icons/search.svg',
+  sort: '/icons/sort.svg',
+  status: '/icons/status.svg',
+  mastercard: '/icons/mastercard.svg',
+  visa: '/icons/visa.svg',
+  pay: '/icons/pay.svg',
+  gPay: '/icons/g-pay.svg',
+  footerIcon1: '/icons/footer-icon-1.svg',
+  footerIcon2: '/icons/footer-icon-2.svg',
+} as const

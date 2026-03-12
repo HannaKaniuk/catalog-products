@@ -1,0 +1,8 @@
+export { Header } from './Header'
+export { SearchBar } from './SearchBar'
+export { SortDropdown } from './SortDropdown'
+export { CatalogFooter } from './CatalogFooter'
+export { StateMessage } from './StateMessage'
+export { ProductCard } from './ProductCard'
+export { ProductGrid } from './ProductGrid'
+export { Pagination } from './Pagination'
